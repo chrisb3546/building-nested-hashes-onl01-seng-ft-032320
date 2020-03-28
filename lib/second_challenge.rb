@@ -6,13 +6,16 @@ def second_challenge
       :matriarch =>{ }
       :hero =>{ }
       :hero_friends => [ { }
-      }
+      
+      ]
+    }
     :capulet => { 
       :patriarch =>{ }
       :matriarch =>{ }
       :hero => { }
-      :hero_friends =>{ }
+      :hero_friends => [ { }
       }
+      ]
     }
 end
   
